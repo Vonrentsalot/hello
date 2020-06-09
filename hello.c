@@ -12,6 +12,6 @@
 int main(int argc, char **argv) {
 
   printf("Nicholas von Rentzell and Sonja Rebarber\n");
-
+  printf("Bachelor of Music Performance\n");
   return 0;
 }
