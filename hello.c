@@ -1,5 +1,5 @@
 /**
- * Author: Nicholas von Rentzell and Sonja Rebarber
+ * Author: Nicholas von Rentzell
  *         cbourke@cse.unl.edu
  * Date: 2020/06/08
  *
